@@ -1,0 +1,15 @@
+.topo {
+    font-family: 'Playfair Display SC', serif;
+    background-color:rgb(253, 253, 253); 
+    color: rgb(46, 39, 39);
+    margin-bottom: 50px;
+    padding: 10px;
+    box-shadow: 1px 3px 6px rgba(68,68,68,0.1); 
+
+}
+
+.erro{
+    background-image: url(../imagens/magal.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+}
